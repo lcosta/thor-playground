@@ -2,6 +2,19 @@
 Start Thor Playground
 ===========================
 
+
+
+User Thor Playground
+====================
+
+1. sudo gem install thor
+2. git clone git://github.com/lcosta/thor-playground.git
+3. cd thor-playground
+4. thor t:t4 --force # test task "t:24" in file "thor-basic.thor"
+
+
+
+
 Index
 =====
 
